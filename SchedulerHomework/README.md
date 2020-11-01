@@ -6,7 +6,7 @@ For this assignment, I had to create a daily planner using jQuery.  For each bus
 
 
 ## What I Have Accomplished
-Using jQuery methods, I programmed a working clock that displays the current date and time, constantly updating by the second.  I also managed to get the planner to look somewhat like the example, without having write a ton of html (thank you jQuery?).
+Using jQuery methods, I programmed a working clock that displays the current date and time, constantly updating by the second.  I also managed to get the planner to look somewhat like the example, without having write a ton of html (thank you jQuery?). Screenshots are available to display layout, and that time is updating.
 
 ## Shortcomings
 I could not fgure out a way for the user data to be saved to each text area, as well as the localStorage.  More to work on.
